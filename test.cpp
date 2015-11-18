@@ -9,7 +9,7 @@ void testCase3()
 
 void testCase2()
 {
-	cout << "dlj do it" << endl;	
+	cout << "dlj do it, Tom change it" << endl;	
 }
 
 void testCase4()
