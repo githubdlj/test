@@ -15,6 +15,9 @@ void testCase2()
 void testCase4()
 {}
 
+void testCAse5()
+{}
+
 void testCase4()
 {
 	cout << "dlj do it" << endl;
