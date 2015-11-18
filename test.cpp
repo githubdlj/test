@@ -11,3 +11,8 @@ void testCase2()
 {
 	cout << "dlj do it" << endl;	
 }
+
+void testCase4()
+{
+	cout << "dlj do it" << endl;	
+}
