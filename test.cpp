@@ -13,6 +13,9 @@ void testCase2()
 }
 
 void testCase4()
+{}
+
+void testCase4()
 {
 	cout << "dlj do it" << endl;
 	cout << "dli change it" << endl;	
